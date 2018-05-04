@@ -14,4 +14,5 @@ ARCHITECTURE
 RESULT
 -------------------------------------------------------------------
 Result architecture  
-![decode](https://user-images.githubusercontent.com/19617361/39620463-38c26dce-4fc6-11e8-94cc-3792ad018de4.png)
+<img width="200" src = "https://user-images.githubusercontent.com/19617361/39620463-38c26dce-4fc6-11e8-94cc-3792ad018de4.png">
+
