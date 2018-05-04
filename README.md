@@ -1,7 +1,7 @@
 # CVAE_MNIST
 
 Paper   : Semi-Supervised Learning with Deep Generative Models
-Dataset : MNIST
+ Dataset : MNIST
 ----------------------------------------------------------------------
 
 ARCHITECTURE
