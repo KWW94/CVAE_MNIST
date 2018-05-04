@@ -20,4 +20,5 @@ RESULT
 <img src = "https://user-images.githubusercontent.com/19617361/39620579-a8a976e6-4fc6-11e8-9f24-3f1a475eb20e.png">
 
 3. MNIST Result
-![result](https://user-images.githubusercontent.com/19617361/39620656-d05e68e0-4fc6-11e8-8baf-df95ac8f44c2.png)
+![result](https://user-images.githubusercontent.com/19617361/39620691-ef763afa-4fc6-11e8-84ee-72ca71dcb7f4.png)
+
