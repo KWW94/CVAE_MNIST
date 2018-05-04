@@ -22,3 +22,6 @@ RESULT
 3. MNIST Result
 ![result](https://user-images.githubusercontent.com/19617361/39620691-ef763afa-4fc6-11e8-84ee-72ca71dcb7f4.png)
 
+
+4. latent space
+![graph](https://user-images.githubusercontent.com/19617361/39620740-15dcfb02-4fc7-11e8-8bed-4deeb8ba3122.png)
