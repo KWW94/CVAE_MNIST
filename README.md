@@ -14,13 +14,13 @@ ARCHITECTURE
 RESULT
 -------------------------------------------------------------------
 **1. Result architecture**  
-<img width="720" src = "https://user-images.githubusercontent.com/19617361/39620463-38c26dce-4fc6-11e8-94cc-3792ad018de4.png">
+<img width="720" src = "https://user-images.githubusercontent.com/19617361/39620463-38c26dce-4fc6-11e8-94cc-3792ad018de4.png">  
 
-**2. Loss**
-<img src = "https://user-images.githubusercontent.com/19617361/39620579-a8a976e6-4fc6-11e8-9f24-3f1a475eb20e.png">
+**2. Loss**  
+<img src = "https://user-images.githubusercontent.com/19617361/39620579-a8a976e6-4fc6-11e8-9f24-3f1a475eb20e.png">  
 
-**3. MNIST Result**
-![result](https://user-images.githubusercontent.com/19617361/39620691-ef763afa-4fc6-11e8-84ee-72ca71dcb7f4.png)
+**3. MNIST Result**  
+![result](https://user-images.githubusercontent.com/19617361/39620691-ef763afa-4fc6-11e8-84ee-72ca71dcb7f4.png)  
 
-**4. latent space**
-![graph](https://user-images.githubusercontent.com/19617361/39620740-15dcfb02-4fc7-11e8-8bed-4deeb8ba3122.png)
+**4. latent space**  
+![graph](https://user-images.githubusercontent.com/19617361/39620740-15dcfb02-4fc7-11e8-8bed-4deeb8ba3122.png)  
